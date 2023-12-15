@@ -1,11 +1,11 @@
 # Hello, World! 👋
 
-I'm [Your Name], a passionate [Your Profession] from [Your Location]. Welcome to my GitHub profile! 🚀
+I'm Omar Odeh, a passionate Software Engineering from Jordan. Welcome to my GitHub profile! 🚀
 
 ## 📌 About Me
 
-- 🎓 Graduated with a degree in [Your Degree/Major]
-- 💼 Currently working as a [Your Current Job Title] at [Your Current Company]
+- 🎓 Graduated with a degree in ITC from The Open University
+
 - 🌐 I love exploring new technologies and building innovative solutions
 - 📚 Always learning and staying curious
 
