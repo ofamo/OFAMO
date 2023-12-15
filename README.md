@@ -33,8 +33,8 @@ I'm [Your Name], a passionate [Your Profession] from [Your Location]. Welcome to
 
 ## 🌱 I'm Currently Learning
 
-- [Topic 1]
-- [Topic 2]
+- RESTful/API
+- AI
 <!-- Add more topics as needed -->
 
 ## 📫 Let's Connect
